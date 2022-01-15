@@ -1,3 +1,5 @@
+package stringTasks;
+
 public class EveryCharacter {
     public static void main(String[] args) {
 

@@ -1,3 +1,5 @@
+package stringTasks;
+
 public class UniqueCharacter1 {
     public static void main(String[] args) {
 

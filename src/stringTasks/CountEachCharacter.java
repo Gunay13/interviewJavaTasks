@@ -1,3 +1,5 @@
+package stringTasks;
+
 public class CountEachCharacter {
     public static void main(String[] args) {
 
